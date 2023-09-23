@@ -2,7 +2,9 @@
   align="right"
   src="https://visitor-badge.laobi.icu/badge?page_id=SHVM-09.SHVM-09"
 />
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Shivam+Upadhyay!;"
@@ -65,10 +67,17 @@
 <br />
 <hr />
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://cdn.jsdelivr.net/gh/SHVM-09/SHVM-09@output/github-contribution-grid-snake-dark.svg" />
+  <br/><br/><br/>
+</div>
+
+<hr/>
+<br/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=SHVM-09&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
-
-<br/><br/>
+</div>  
