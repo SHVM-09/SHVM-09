@@ -19,7 +19,7 @@
 
 👨‍💻 I'm currently working at [Clevision Technologies Pvt Ltd](http://clevision.net/)
 
-🔭 I’m currently working on **React eCommerce App**
+🔭 I’m currently working on Personal Portfolio Website.
 
 🌱 I’m currently learning **Aspnet Core MVC, Advanced JS, React, GitHub etc**
 
@@ -27,9 +27,9 @@
 
 ⚡ Living life on three principles **Truth, Love & Compassion**
 
-📖 I'm currently reading Shreemad Bhagwat Geeta & Mahabharata
+📖 Books List ❤️ - Bhagwat Geeta, Mahabharata & History of Ancient India
 
-🎥 I'm in love with animes & my top three are One Piece, Naruto & Bleach
+🎥 Anime List ❤️ - One Piece, Naruto, Bleach, Demon Slayer, Berserk, Hell's Paradise 
 
  </div>
 <br/>
@@ -47,6 +47,21 @@
   <a href="https://shivam-upadhyay-portfolio.netlify.app/">
     <img
       src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
+    />
+  </a>
+  <a href="https://discord.com/channels/1155418497799704587/1155418497799704590/">
+    <img
+      src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"
+    />
+  </a>
+    <a href="https://www.instagram.com/s_h_v_m_9/">
+    <img
+      src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+  </a>
+    <a href="https://www.facebook.com/shivam.upadhyay.94009841">
+    <img
+      src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"
     />
   </a>
 </div>
@@ -75,7 +90,6 @@
 </div>
 
 <hr/>
-<br/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
