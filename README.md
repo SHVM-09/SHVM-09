@@ -64,6 +64,11 @@
       src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"
     />
   </a>
+  <a href="[https://www.facebook.com/shivam.upadhyay.94009841](https://codepen.io/codepen-io-lord-shivam)">
+    <img
+      src="https://img.shields.io/badge/CodePen-ffffff?style=for-the-badge&logo=codepen&logoColor=black"
+    />
+  </a>
 </div>
 <br/>
 <hr />
@@ -72,7 +77,7 @@
 <br />
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=github,javascript,typescript,firebase,sass,gulp,netlify,codepen,discord,regex"
+    src="https://skillicons.dev/icons?i=github,javascript,typescript,sass,gulp,netlify,codepen,discord,regex"
   /><br />
   <img
     src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,vscode,figma,git,stackoverflow"
