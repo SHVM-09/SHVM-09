@@ -110,10 +110,26 @@
 </div>
  
 <br/><br/>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SHVM-09&theme=monokai&row=2&column=3" alt="GitHub Profile Trophy" />
+</div>
+
+
+<h2 align="center">🔝 Top Contributed Repo</h2>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=SHVM-09&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Profile Contributions" />
+</div>
+
+<h2 align="center">✍️ Random Dev Quote</h2>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Profile Qoutes" />
+</div>
+
 <hr/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin+or+Mail!;I'm+always+down+to+collab+:)">
 </h3>
 
-<br/> 
