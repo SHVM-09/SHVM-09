@@ -34,37 +34,37 @@
  </div>
 <br/>
 <div align="center">
-  <a href="mailto:monkeydeluffy@icloud.com">
+  <a href="mailto:monkeydeluffy@icloud.com" target="_blank">
     <img
       src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
     />
   </a>
-  <a href="https://www.linkedin.com/in/shivam-upadhyay-44041a118/">
+  <a href="https://www.linkedin.com/in/shivam-upadhyay-44041a118/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-  <a href="https://shivam-upadhyay-portfolio.netlify.app/">
+  <a href="https://shivam-upadhyay-portfolio.netlify.app/" target="_blank">
     <img
       src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
     />
   </a>
-  <a href="https://discord.com/channels/1155418497799704587/1155418497799704590/">
+  <a href="https://discord.com/channels/1155418497799704587/1155418497799704590/" target="_blank">
     <img
       src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"
     />
   </a>
-    <a href="https://www.instagram.com/s_h_v_m_9/">
+    <a href="https://www.instagram.com/s_h_v_m_9/" target="_blank">
     <img
       src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
-    <a href="https://www.facebook.com/shivam.upadhyay.94009841">
+    <a href="https://www.facebook.com/shivam.upadhyay.94009841" target="_blank">
     <img
       src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"
     />
   </a>
-  <a href="[https://www.facebook.com/shivam.upadhyay.94009841](https://codepen.io/codepen-io-lord-shivam)">
+  <a href="https://codepen.io/codepen-io-lord-shivam" target="_blank">
     <img
       src="https://img.shields.io/badge/CodePen-ffffff?style=for-the-badge&logo=codepen&logoColor=black"
     />
@@ -77,10 +77,10 @@
 <br />
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=github,javascript,typescript,sass,gulp,netlify,codepen,discord,regex"
+    src="https://skillicons.dev/icons?i=github,javascript,typescript,sass,gulp,netlify,codepen,discord,regex,dotnet,githubactions,sqlite,visualstudio"
   /><br />
   <img
-    src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,vscode,figma,git,stackoverflow"
+    src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,vscode,figma,git,stackoverflow,docker,jquery,vercel,cs"
   />
 </div>
 
