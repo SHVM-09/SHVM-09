@@ -80,74 +80,63 @@
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=00ABF7&background=DFDFDF00&center=true&vCenter=true&random=true&width=435&lines=+GitHub+Trophies" alt="Typing SVG" /></h2>
 <div align="center">
+  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=SHVM-09&theme=algolia&row=1&column=6&margin-w=15" alt="GitHub Profile Trophy" />
 </div>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=F75E03&background=DFDFDF00&center=true&vCenter=true&random=true&width=435&lines=About+Me" alt="Typing SVG" /></h2>
 <div>
 <details>
-<summary>About Me 👨‍💻  🔭  🌱  💬  ⚡  📖  🎥 </summary>
+<summary>
+Bio
+</summary>
+<br/>
+  
+> **Current Work:** I'm currently a part of the dynamic team at [Clevision Technologies Pvt Ltd](http://clevision.net/) Pvt Ltd, where we're constantly pushing the boundaries of technology.
+> **Current Project:** Crafting a Personal Portfolio Website, a digital space where creativity meets technology.
 
-👨‍💻 **Current Work:** I'm currently a part of the dynamic team at [Clevision Technologies Pvt Ltd](http://clevision.net/) Pvt Ltd, where we're constantly pushing the boundaries of technology.
+> **Learning Journey:** Diving into Aspnet Core MVC, Advanced JS, React, GitHub, and more. I believe in the power of continuous improvement and expanding my skill set.
 
-🔭 **Current Project:** Crafting a Personal Portfolio Website, a digital space where creativity meets technology.
+> **Ask Me About:** Bootstrap, React, JavaScript, HTML, GitHub, SaSS, ASPNET Core, and beyond. You can start a conversation [here](https://github.com/SHVM-09/SHVM-09/issues).
 
-🌱 **Learning Journey:** Diving into Aspnet Core MVC, Advanced JS, React, GitHub, and more. I believe in the power of continuous improvement and expanding my skill set.
+> **Life Principles:** I adhere to three guiding principles: Truth, Love, and Compassion. These values drive me both personally and professionally.
 
-💬 **Ask Me About:** Bootstrap, React, JavaScript, HTML, GitHub, SaSS, ASPNET Core, and beyond. You can start a conversation [here](https://github.com/SHVM-09/SHVM-09/issues).
+> **Favorite Books:** Bhagwat Geeta, Mahabharata, History of Ancient India, and a deep exploration of A British Subject.
 
-⚡ **Life Principles:** I adhere to three guiding principles: Truth, Love, and Compassion. These values drive me both personally and professionally.
+> **Anime Enthusiast:** From epic adventures like One Piece, Naruto, and Bleach to the more recent hits like Demon Slayer, Berserk, Hell's Paradise, and the intriguing world of Spy Family, I find inspiration and entertainment in these captivating animated stories.
 
-📖 **Favorite Books:** Bhagwat Geeta, Mahabharata, History of Ancient India, and a deep exploration of A British Subject.
-
-🎥 **Anime Enthusiast:** From epic adventures like One Piece, Naruto, and Bleach to the more recent hits like Demon Slayer, Berserk, Hell's Paradise, and the intriguing world of Spy Family, I find inspiration and entertainment in these captivating animated stories.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/MXiAe0vuAqOhP9LBwd/giphy.gif" height="150">
-</div>
 </details>
 
 <details>
-<summary>Hobbies and Interests 🏏 🎵 🍳 📱 📷 🏞️ 🚴</summary>
+<summary>Hobbies and Interests</summary>
 <br>
-🏏 Cricket   |
-🎵 Music   |
-🍳 Cooking   |
-📱 Gadgets   |
-📷 Photography   |
-🏞️ Hiking   |
-🚴 Biking
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=FFF930&background=DFDFDF00&random=true&width=800&lines=%F0%9F%8F%8F+Cricket+++%7C+%F0%9F%8E%B5+Music+++%7C+%F0%9F%8D%B3+Cooking+++%7C+%F0%9F%93%B1+Gadgets+++%7C+%F0%9F%93%B7+Photography+++%7C+%F0%9F%8F%9E%EF%B8%8F+Hiking+++%7C+%F0%9F%9A%B4+Biking" alt="Typing SVG" />
 
 </details>
 </div>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=FF0000&background=DFDFDF00&center=true&vCenter=true&random=true&width=495&lines=GitHub+Stats" alt="Typing SVG" /></h2>
 <br>
-<div align="center">
-  <img width=500 src="https://streak-stats.demolab.com/?user=SHVM-09&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<div>
+  <img src="https://streak-stats.demolab.com?user=SHVM-09&count_private=true&theme=neon-dark&hide_border=true&border_radius=15&card_width=1000" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img width=400 align="center" src="https://github-readme-stats-shvm-09.vercel.app/api/top-langs/?username=SHVM-09&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img width="100%" height="200" src="https://github-readme-stats-three-pi-63.vercel.app/api?username=SHVM-09&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10&hide_border=true" alt="readme stats" />
 </div>
 <br/>
 <div align="center">
-  <img width=350 src="https://github-readme-stats-three-pi-63.vercel.app/api?username=SHVM-09&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="500" height="200" align="center" src="https://github-readme-stats-shvm-09.vercel.app/api/top-langs/?username=SHVM-09&langs_count=8&layout=donut-vertical&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true" alt="top langs" />
 </div>
- 
 <br/>
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=8100FF&background=DFDFDF00&center=true&vCenter=true&random=true&width=495&lines=Top+Contributed+Repo" alt="Typing SVG" /></h2>
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SHVM-09&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Profile Contributions" />
+  <br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=SHVM-09&limit=5&theme=synthwave&combine_all_yearly_contributions=true&hide_border=true" alt="GitHub Profile Contributions" height="200"/>
 </div>
 
-<h2 align="center">✍️ Random Dev Quote</h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=93FF43&background=DFDFDF00&center=true&vCenter=true&random=true&width=495&lines=Dev+Quotes" alt="Typing SVG" /></h2>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Profile Qoutes" />
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="GitHub Profile Qoutes"/>
 </div>
-
-<hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin+or+Mail!;I'm+always+down+to+collab+:)">
-</h3>
