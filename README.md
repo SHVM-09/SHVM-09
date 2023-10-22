@@ -31,7 +31,7 @@
 </p>
   <!-- Visitors Badge -->
   <img
-  src="https://visitor-badge.laobi.icu/badge?page_id=SHVM-09.SHVM-09&left_color=black&right_color=magenta&left_text=Visitor Count" width="100"
+  src="https://visitor-badge.laobi.icu/badge?page_id=SHVM-09.SHVM-09&left_color=black&right_color=magenta&left_text=Visitors" width="100"
 />
 </div>
 
