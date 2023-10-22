@@ -136,7 +136,13 @@ Bio
 </div>
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=93FF43&background=DFDFDF00&center=true&vCenter=true&random=true&width=495&lines=Dev+Quotes" alt="Typing SVG" /></h2>
-<div align="center">
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="GitHub Profile Qoutes"/>
+<br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="GitHub Profile Qoutes" width="100%" height="300"/>
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/049/893/449/large/samuel-blackhole2-2-ultrawide-lowres.jpg?1653565308" width="330" style="margin-right: 20px;">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/049/893/449/large/samuel-blackhole2-2-ultrawide-lowres.jpg?1653565308" width="330" style="margin-right: 20px;">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/049/893/449/large/samuel-blackhole2-2-ultrawide-lowres.jpg?1653565308" width="330">
 </div>
+
+
