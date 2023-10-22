@@ -191,17 +191,17 @@ My Bio
   </a>
   <a href="https://bejewelled-toffee-af9ca6.netlify.app/" target="blank">
     <img
-      src="https://img.shields.io/badge/HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;JS-lucky&nbsp;role&nbsp;dice&nbsp;Game-FF0000?style=for-the-badge" width="400"
-    />
-  </a>
-  <a href="https://codepen.io/codepen-io-lord-shivam/pen/jOxqRNw" target="blank">
-    <img
-      src="https://img.shields.io/badge/HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;JS-Modal&nbsp;window&nbsp;Project-C43DFF?style=for-the-badge" width="400"
+      src="https://img.shields.io/badge/HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;JS-luck&nbsp;role&nbsp;dice&nbsp;Game-FF0000?style=for-the-badge" width="400"
     />
   </a>
   <a href="https://codepen.io/codepen-io-lord-shivam/pen/QWrNoaN" target="blank">
     <img
-      src="https://img.shields.io/badge/HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;JS-Syndicate&nbsp;Banking&nbsp;app-FFFFFF?style=for-the-badge" width="400"
+      src="https://img.shields.io/badge/HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;JS-Syndicate&nbsp;Bank&nbsp;app-FFFFFF?style=for-the-badge" width="400"
+    />
+  </a>
+  <a href="https://codepen.io/codepen-io-lord-shivam/pen/jOxqRNw" target="blank">
+    <img
+      src="https://img.shields.io/badge/HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;JS-The&nbsp;Modals&nbsp;window&nbsp;Project-C43DFF?style=for-the-badge" width="400"
     />
   </a>
   <a href="https://hospital-website-by-shivam.netlify.app/" target="blank">
@@ -211,7 +211,7 @@ My Bio
   </a>
   <a href="https://sample-survey-4-clevision.netlify.app" target="blank">
     <img
-      src="https://img.shields.io/badge/HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;JS&nbsp;|&nbsp;bs5-sample&nbsp;survey&nbsp;form-001BFF?style=for-the-badge" width="400"
+      src="https://img.shields.io/badge/HTML&nbsp;|&nbsp;CSS&nbsp;|&nbsp;JS&nbsp;|&nbsp;bs5-sample&nbsp;survey&nbsp;bs5&nbsp;form-001BFF?style=for-the-badge" width="400"
     />
   </a>
   <a href="https://stalwart-starburst-91049b.netlify.app/" target="blank">
@@ -219,14 +219,24 @@ My Bio
       src="https://img.shields.io/badge/React&nbsp;|&nbsp;context&nbsp;api&nbsp;|&nbsp;JS-toolkit&nbsp;Counter&nbsp;app-F60F78?style=for-the-badge" width="400"
     />
   </a>
+  <a href="https://github.com/SHVM-09/TodoApp-using-localStorage" target="blank">
+    <img
+      src="https://img.shields.io/badge/React&nbsp;|&nbsp;JS-todo&nbsp;app&nbsp;with&nbsp;local&nbsp;storage-0BFE07?style=for-the-badge" width="400"
+    />
+  </a>
+  <a href="https://github.com/SHVM-09/Anime-Character-Search" target="blank">
+    <img
+      src="https://img.shields.io/badge/React&nbsp;|&nbsp;JS-anime&nbsp;characters&nbsp;search&nbsp;app-861CB1?style=for-the-badge" width="400"
+    />
+  </a>
   <a href="https://shvm-09.github.io/Product" target="blank">
     <img
-      src="https://img.shields.io/badge/React&nbsp;|&nbsp;redux&nbsp;-react&nbsp;eCommerce&nbsp;demo&nbsp;app-FBFF00?style=for-the-badge" width="400"
+      src="https://img.shields.io/badge/React&nbsp;|&nbsp;redux&nbsp;|&nbsp;js-react&nbsp;redux&nbsp;eCommerce&nbsp;function&nbsp;app-FBFF00?style=for-the-badge" width="400"
     />
   </a>
   <a href="https://github.com/SHVM-09/Aspnet-Core-with-Razor-Pages-integrated-with-datatables" target="blank">
     <img
-      src="https://img.shields.io/badge/ASPNET&nbsp;CORE&nbsp;|&nbsp;razor&nbsp;|&nbsp;Sqlite-CRUD&nbsp;with&nbsp;database&nbsp;-370A3B?style=for-the-badge" width="400"
+      src="https://img.shields.io/badge/ASPNET&nbsp;CORE&nbsp;|&nbsp;razor&nbsp;|&nbsp;Sqlite-ASPNETCRUD&nbsp;with&nbsp;database&nbsp;-370A3B?style=for-the-badge" width="400"
     />
   </a>
   <a href="https://github.com/SHVM-09/aspnet-core-mvc-with-database-integrated-to-datatables" target="blank">
@@ -234,6 +244,7 @@ My Bio
       src="https://img.shields.io/badge/ASPNET&nbsp;CORE&nbsp;|&nbsp;mvc&nbsp;|&nbsp;Sqlite-CRUD&nbsp;with&nbsp;database&nbsp;-2B8A16?style=for-the-badge" width="400"
     />
   </a>
+  
   <!-- <a href="" target="blank">
     <img
       src="https://img.shields.io/badge/ASPNET&nbsp;CORE&nbsp;|&nbsp;razor&nbsp;|&nbsp;Sqlite(*)-SP_CRUD&nbsp;with&nbsp;database&nbsp;-EABBD7?style=for-the-badge" width="400"
@@ -242,7 +253,11 @@ My Bio
 </div>
 
 <!-- Lookouts -->
-<!-- <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=0E00FF&center=true&vCenter=true&random=true&width=495&lines=Explorations+%7C+LookOuts+%7C+ToDo's" alt="Typing SVG" /></h2> -->
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=0E00FF&center=true&vCenter=true&random=true&width=495&lines=miscellaneous" alt="Typing SVG" /></h2>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=FF00B1&center=true&vCenter=true&random=true&width=495&lines=FAV+THIRD+PARTY+LIBRARIES" alt="Typing SVG" />
+</div>
 
 <!-- Dev Quotes -->
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=93FF43&background=DFDFDF00&center=true&vCenter=true&random=true&width=495&lines=Dev+Quotes" alt="Typing SVG" /></h2>
@@ -250,3 +265,5 @@ My Bio
 <br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="GitHub Profile Qoutes" width="100%" height="150"/>
+
+
