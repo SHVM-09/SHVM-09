@@ -253,11 +253,18 @@ My Bio
 </div>
 
 <!-- Lookouts -->
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=0E00FF&center=true&vCenter=true&random=true&width=495&lines=miscellaneous" alt="Typing SVG" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=0E00FF&center=true&vCenter=true&random=true&width=495&lines=MISCELLANEOUS" alt="Typing SVG" /></h2>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=FF00B1&center=true&vCenter=true&random=true&width=495&lines=FAV+THIRD+PARTY+LIBRARIES" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=FF00B1&center=true&vCenter=true&random=true&width=495&lines=FAMILIAR+THIRD+PARTY+LIBRARIES+AND+HELPERS" alt="Typing SVG" />
 </div>
+
+> BS5 DATATABLES | SWEET ALERT2 | SELECT2 | MAPBOX | ANIMATE.CSS | PERFECT SCROLLBAR | PLYR | RATEYO | SHEPHERD
+
+> SPINKIT | SWIPER | TAGIFY | TOASTR | QUILL | JSTREE | APEX CHARTS | DROPZONE | REPEATER | FONT AWESOME | CLEAVE
+
+> REACT ICONS | FORM VALIDATION | FLAG-ICONS | TABLER ICONS | CHATGPT | W3SCHOOLS | FREE CODE CAMP | GIPHY
+
 
 <!-- Dev Quotes -->
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=93FF43&background=DFDFDF00&center=true&vCenter=true&random=true&width=495&lines=Dev+Quotes" alt="Typing SVG" /></h2>
