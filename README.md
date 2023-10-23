@@ -117,7 +117,7 @@ My Bio
 </summary>
 <br/>
   
-> **Current Work:** I'm currently a part of the dynamic team at [Clevision Technologies Pvt Ltd](http://clevision.net/) Pvt Ltd, where we're constantly pushing the boundaries of technology.
+> **Current Work:** I'm currently a part of the dynamic team at [Clevision Technologies Pvt Ltd](http://clevision.net/), where we're constantly pushing the boundaries of technology.
 
 > **Current Project:** Crafting a Personal Portfolio Website, a digital space where creativity meets technology.
 
@@ -136,7 +136,7 @@ My Bio
 <details>
 <summary>Hobbies and Interests</summary>
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=FFF930&background=DFDFDF00&random=true&width=800&lines=%F0%9F%8F%8F+Cricket+++%7C+%F0%9F%8E%B5+Music+++%7C+%F0%9F%8D%B3+Cooking+++%7C+%F0%9F%93%B1+Gadgets+++%7C+%F0%9F%93%B7+Photography+++%7C+%F0%9F%8F%9E%EF%B8%8F+Hiking+++%7C+%F0%9F%9A%B4+Biking" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=F75E03&background=DFDFDF00&random=true&width=800&lines=%F0%9F%8F%8F+Cricket+++%7C+%F0%9F%8E%B5+Music+++%7C+%F0%9F%8D%B3+Cooking+++%7C+%F0%9F%93%B1+Gadgets+++%7C+%F0%9F%93%B7+Photography+++%7C+%F0%9F%8F%9E%EF%B8%8F+Hiking+++%7C+%F0%9F%9A%B4+Biking" alt="Typing SVG" />
 
 </details>
 </div>
