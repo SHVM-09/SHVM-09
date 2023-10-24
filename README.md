@@ -139,7 +139,7 @@ My Bio
 <details>
 <summary>Hobbies and Interests</summary>
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=F75E03&background=DFDFDF00&random=true&width=800&lines=%F0%9F%8F%8F+Cricket+++%7C+%F0%9F%8E%B5+Music+++%7C+%F0%9F%8D%B3+Cooking+++%7C+%F0%9F%93%B1+Gadgets+++%7C+%F0%9F%93%B7+Photography+++%7C+%F0%9F%8F%9E%EF%B8%8F+Hiking+++%7C+%F0%9F%9A%B4+Biking" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=F75E03&background=DFDFDF00&random=true&width=900&lines=%F0%9F%8F%8F+Cricket+++%7C+%F0%9F%8E%B5+Music+++%7C+%F0%9F%8D%B3+Cooking+++%7C+%F0%9F%93%B1+Gadgets+++%7C+%F0%9F%93%B7+Photography+++%7C+%F0%9F%8F%9E%EF%B8%8F+Hiking+++%7C+%F0%9F%9A%B4+Biking" alt="Typing SVG" />
 
 </details>
 </div>
