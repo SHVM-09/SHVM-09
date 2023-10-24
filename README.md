@@ -271,6 +271,7 @@ My Bio
 
 <br/>
 
+<div>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="GitHub Profile Qoutes" width="100%" height="150"/>
-
+</div>
 
