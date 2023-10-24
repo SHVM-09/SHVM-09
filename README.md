@@ -1,7 +1,7 @@
 > [!NOTE]
 > Please Use dark mode for better view! [🌓](https://github.com/settings/appearance)
 
-Current Status: <!---STATUS--->
+Current Status: <!-- STATUS -->
 
 <!-- Title Image -->
 <img src="https://cdnb.artstation.com/p/assets/images/images/049/893/449/large/samuel-blackhole2-2-ultrawide-lowres.jpg?1653565308" width="100%" height="400" >
