@@ -29,7 +29,7 @@ if (currentHour >= 7 && currentHour < 8) {
 const fs = require('fs');
 fs.readFile('README.md', 'utf-8', (err, data) => {
     if (err) throw err;
-    const updatedReadme = data.replace('<!---STATUS--->', status);
+    const updatedReadme = data.replace('<!-- STATUS -->', status);
     fs.writeFile('README.md', updatedReadme, 'utf-8', (err) => {
         if (err) throw err;
         console.log('README.md updated with current status.');
