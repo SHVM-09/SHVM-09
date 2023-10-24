@@ -1,3 +1,6 @@
+[Light Theme](https://github.com/settings/appearance)
+[Dark Theme](https://github.com/settings/appearance)
+
 <!-- Title Image -->
 <img src="https://cdnb.artstation.com/p/assets/images/images/049/893/449/large/samuel-blackhole2-2-ultrawide-lowres.jpg?1653565308" width="100%" height="400" >
 <!-- Title Message -->
