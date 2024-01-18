@@ -162,7 +162,7 @@ My Bio
 <br/>
 
 <!-- Top Contributed Repos -->
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=8100FF&background=DFDFDF00&center=true&vCenter=true&random=true&width=495&lines=Top+Contributed+Repo" alt="Typing SVG" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=F70DA0&background=DFDFDF00&center=true&vCenter=true&random=true&width=495&lines=Top+Contributed+Repo" alt="Typing SVG" /></h2>
 
 <div align="center">
   <br/>
