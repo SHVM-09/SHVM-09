@@ -88,7 +88,7 @@
     src="https://skillicons.dev/icons?i=github,javascript,typescript,sass,gulp,netlify,codepen,discord,regex,dotnet,githubactions,sqlite,visualstudio"
   /><br />
   <img
-    src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,vscode,figma,git,stackoverflow,docker,jquery,vercel,cs"
+    src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,vscode,figma,git,stackoverflow,docker,jquery,vercel,cs,tailwind"
   />
 </div>
 
