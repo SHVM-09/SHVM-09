@@ -161,13 +161,13 @@ My Bio
 
 <br/>
 
-<!-- Top Contributed Repos -->
+<!-- Top Contributed Repos
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=F70DA0&background=DFDFDF00&center=true&vCenter=true&random=true&width=495&lines=Top+Contributed+Repo" alt="Typing SVG" /></h2>
 
 <div align="center">
   <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=SHVM-09&limit=5&theme=synthwave&combine_all_yearly_contributions=true&hide_border=true" alt="GitHub Profile Contributions" height="200"/>
-</div>
+  <img src="https://github-contributor-stats.vercel.app/api?username=SHVM-09&limit=7&theme=synthwave&combine_all_yearly_contributions=true&hide_border=true" alt="GitHub Profile Contributions" width="600" height="300"/>
+</div>-->
 
 <br/>
 
