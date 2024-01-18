@@ -106,7 +106,7 @@
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=00ABF7&background=DFDFDF00&center=true&vCenter=true&random=true&width=435&lines=+GitHub+Trophies" alt="Typing SVG" /></h2>
 <div align="center">
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=SHVM-09&theme=algolia&row=1&column=6&margin-w=15" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SHVM-09&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy" />
 </div>
 
 <!-- About Me -->
