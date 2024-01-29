@@ -23,16 +23,17 @@
 </div>
 
 <div id="header" align="center">
+  <!-- Visitors Badge -->
+  <img
+  src="https://visitor-badge.laobi.icu/badge?page_id=SHVM-09.SHVM-09&left_color=black&right_color=magenta&left_text=Visitors" width="100"
+/><br>
   <!-- Coder Gif -->
   <img src="https://media0.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy_s.gif?cid=ecf05e473ir0escunkpeb0enj0d8j5vfwp6i2i4kvwywvfy3&ep=v1_stickers_search&rid=giphy_s.gif&ct=s" width="150" height="150"/>
   <!-- Tag Line -->
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=F70093&background=DFDFDF00&center=true&vCenter=true&random=true&width=435&lines=+Passionate+software+developer+from+Ahmedabad+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </p>
-  <!-- Visitors Badge -->
-  <img
-  src="https://visitor-badge.laobi.icu/badge?page_id=SHVM-09.SHVM-09&left_color=black&right_color=magenta&left_text=Visitors" width="100"
-/>
+  <a href="https://www.buymeacoffee.com/shivamsmai2"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=shivamsmai2&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </div>
 
 <br/>
