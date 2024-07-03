@@ -1,5 +1,6 @@
 > [!NOTE]
 > Please Use dark mode for a better view! [🌓](https://github.com/settings/appearance)
+> Working on New Portfolio
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=1&pause=1000&color=F70DA0&multiline=true&random=true&width=635&lines=Shivam's+GitHub+Portfolio!" alt="Typing SVG" />
 
@@ -148,30 +149,28 @@ My Bio
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=F70DA0&background=DFDFDF00&center=true&vCenter=true&random=true&width=495&lines=GitHub+Stats" alt="Typing SVG" /></h2>
 
 <br>
+<!-- Top Langs -->
+<img width="100%" height="200" align="center" src="https://github-readme-stats-shvm-09.vercel.app/api/top-langs/?username=SHVM-09&langs_count=20&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&card_width=600" alt="top langs - refresh the page if api call does not hit" />
+<br/>
 <!-- Streak -->
-<div>
-  <img src="https://streak-stats.demolab.com?user=SHVM-09&count_private=true&theme=neon-dark&hide_border=true&border_radius=15&card_width=1000" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SHVM-09&count_private=true&theme=neon-dark&hide_border=true&border_radius=15&card_width=600" alt="GitHub Streak" />
 </div>
 <br/>
 <!-- Stats -->
 <div align="center">
-  <img width="100%" height="200" src="https://github-readme-stats-three-pi-63.vercel.app/api?username=SHVM-09&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10&hide_border=true" alt="readme stats" />
+  <img width="100%" height="200" src="https://github-readme-stats-three-pi-63.vercel.app/api?username=SHVM-09&count_private=true&show_icons=true&theme=highcontrast&border_radius=10&hide_border=true&card_width=600" alt="readme stats - refresh the page if api call does not hit" />
 </div>
 <br/>
-<!-- Top Langs -->
-<div align="center">
-  <img width="500" height="200" align="center" src="https://github-readme-stats-shvm-09.vercel.app/api/top-langs/?username=SHVM-09&langs_count=8&layout=donut-vertical&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true" alt="top langs" />
-</div>
 
-<br/>
-
-<!-- Top Contributed Repos
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=F70DA0&background=DFDFDF00&center=true&vCenter=true&random=true&width=495&lines=Top+Contributed+Repo" alt="Typing SVG" /></h2>
+<!-- Top Contributed Repos -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=F70DA0&background=DFDFDF00&center=true&vCenter=true&random=true&width=495&lines=Top+Contributed+Repo" alt="Typing SVG" /></h2>
 
 <div align="center">
   <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=SHVM-09&limit=7&theme=synthwave&combine_all_yearly_contributions=true&hide_border=true" alt="GitHub Profile Contributions" width="600" height="300"/>
-</div>-->
+  <img src="https://github-contributor-stats.vercel.app/api?username=SHVM-09&limit=10&theme=synthwave&combine_all_yearly_contributions=true&hide_border=true" alt="GitHub Profile Contributions" width="700" height="300"/>
+</div>
 
 <br/>
 
