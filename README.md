@@ -122,7 +122,7 @@ My Bio
 </summary>
 <br/>
   
-> **Current Work:** I'm currently a part of the dynamic team at [Growth.cx]([http://clevision.net/](https://growth.cx/about-us/)) and [Trelae](https://trelae.com/), where we're constantly pushing the boundaries of technology.
+> **Current Work:** I'm currently a part of the dynamic team at [Growth.cx](https://growth.cx/about-us/) and [Trelae](https://trelae.com/), where we're constantly pushing the boundaries of technology.
 
 > **Current Project:** Crafting a AI integrated CRM/HRM productivity enhancement app with multiple essential features.
 
