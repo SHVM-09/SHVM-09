@@ -122,11 +122,11 @@ My Bio
 </summary>
 <br/>
   
-> **Current Work:** I'm currently a part of the dynamic team at [Clevision Technologies Pvt Ltd](http://clevision.net/), where we're constantly pushing the boundaries of technology.
+> **Current Work:** I'm currently a part of the dynamic team at [Growth.cx]([http://clevision.net/](https://growth.cx/about-us/)) and [Trelae](https://trelae.com/), where we're constantly pushing the boundaries of technology.
 
-> **Current Project:** Crafting a Personal Portfolio Website, a digital space where creativity meets technology.
+> **Current Project:** Crafting a AI integrated CRM/HRM productivity enhancement app with multiple essential features.
 
-> **Learning Journey:** Diving into Aspnet Core MVC, Advanced JS, React, GitHub, and more. I believe in the power of continuous improvement and expanding my skill set.
+> **Learning Journey:** Diving into Aspnet Core MVC, Advanced JS, React, GitHub, Sveltekit, Livekit, Shadcn and more. I believe in the power of continuous improvement and expanding my skill set.
 
 > **Ask Me About:** Bootstrap, React, JavaScript, HTML, GitHub, SaSS, ASPNET Core, and beyond. You can start a conversation [here](https://github.com/SHVM-09/SHVM-09/issues).
 
