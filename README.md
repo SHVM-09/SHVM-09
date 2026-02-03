@@ -53,12 +53,6 @@
     />
   </a>
   &nbsp;
-  <a href="https://shivam-upadhyay-portfolio.netlify.app/" target="blank">
-    <img
-      src="https://img.shields.io/badge/Portfolio(Old)-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
-    />
-  </a>
-  &nbsp;
   <a href="https://www.instagram.com/s_h_v_m_9/" target="blank">
     <img
       src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"
@@ -86,14 +80,25 @@
 
 <!-- Skill Icons  -->
 <div align="center">
+  <!-- Languages -->
   <img
-    src="https://skillicons.dev/icons?i=github,javascript,typescript,sass,gulp,netlify,codepen,discord,regex,dotnet,githubactions,sqlite,visualstudio"
+    src="https://skillicons.dev/icons?i=javascript,typescript,go,py,rust,cs,html,css,bash,aiscript"
   /><br />
+  <!-- Frontend & build -->
   <img
-    src="https://skillicons.dev/icons?i=apple,devto,gmail,linkedin,instagram,md,notion,svg,vite,webpack,windows,yarn,vercel"
+    src="https://skillicons.dev/icons?i=react,redux,svelte,bootstrap,tailwind,styledcomponents,jquery,sass,vite,webpack,gulp,babel"
   /><br />
+  <!-- Backend, DB & cloud -->
   <img
-    src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,vscode,figma,git,stackoverflow,docker,jquery,cs,tailwind"
+    src="https://skillicons.dev/icons?i=nodejs,dotnet,sqlite,postgres,supabase,aws,gcp,docker,githubactions,netlify,vercel"
+  /><br />
+  <!-- Testing, tools, IDEs & design -->
+  <img
+    src="https://skillicons.dev/icons?i=jest,vitest,postman,vscode,visualstudio,figma,svg,git,github,bitbucket,codepen,stackoverflow"
+  /><br />
+  <!-- Other -->
+  <img
+    src="https://skillicons.dev/icons?i=regex,md,notion,discord,devto,apple,windows,tauri,pytorch,gmail,linkedin,instagram"
   />
 </div>
 
@@ -108,7 +113,7 @@
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=F70DA0&background=DFDFDF00&center=true&vCenter=true&random=true&width=435&lines=+GitHub+Trophies" alt="Typing SVG" /></h2>
 <div align="center">
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=SHVM-09&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=shvm-09&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&column=3" alt="GitHub Profile Trophy" />
 </div>
 
 <!-- About Me -->
@@ -122,7 +127,7 @@ My Bio
 </summary>
 <br/>
   
-> **Current Work:** I'm currently a part of the dynamic team at [Growth.cx](https://growth.cx/about-us/) and [Trelae](https://trelae.com/), where we're constantly pushing the boundaries of technology.
+> **Current Work:** I'm currently a part of the dynamic team [Trelae](https://trelae.com/), where we're constantly pushing the boundaries of technology in the field of AI!
 
 > **Current Project:** Crafting a AI integrated CRM/HRM productivity enhancement app with multiple essential features.
 
@@ -154,7 +159,7 @@ My Bio
 <br/>
 <!-- Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SHVM-09&count_private=true&theme=neon-dark&hide_border=true&border_radius=15&card_width=600" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=shvm-09&theme=neon-dark&hide_border=true&border_radius=15&card_width=600" alt="GitHub Streak" />
 </div>
 <br/>
 <!-- Stats -->
