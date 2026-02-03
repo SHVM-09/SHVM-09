@@ -29,12 +29,11 @@
   src="https://visitor-badge.laobi.icu/badge?page_id=SHVM-09.SHVM-09&left_color=black&right_color=magenta&left_text=Visitors" width="100"
 /><br>
   <!-- Coder Gif -->
-  <img src="https://media0.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy_s.gif?cid=ecf05e473ir0escunkpeb0enj0d8j5vfwp6i2i4kvwywvfy3&ep=v1_stickers_search&rid=giphy_s.gif&ct=s" width="150" height="150"/>
+  <img src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" width="150" height="150"/>
   <!-- Tag Line -->
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=F70093&background=DFDFDF00&center=true&vCenter=true&random=true&width=435&lines=+Passionate+software+developer+from+Ahmedabad+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </p>
-  <a href="https://www.buymeacoffee.com/shivamsmai2"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=shivamsmai2&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </div>
 
 <br/>
@@ -157,24 +156,10 @@ My Bio
 <!-- Top Langs -->
 <img width="100%" height="200" align="center" src="https://github-readme-stats-shvm-09.vercel.app/api/top-langs/?username=SHVM-09&langs_count=20&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&card_width=600" alt="top langs - refresh the page if api call does not hit" />
 <br/>
-<!-- Streak -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shvm-09&theme=neon-dark&hide_border=true&border_radius=15&card_width=600" alt="GitHub Streak" />
-</div>
 <br/>
 <!-- Stats -->
 <div align="center">
   <img width="100%" height="200" src="https://github-readme-stats-three-pi-63.vercel.app/api?username=SHVM-09&count_private=true&show_icons=true&theme=highcontrast&border_radius=10&hide_border=true&card_width=600" alt="readme stats - refresh the page if api call does not hit" />
-</div>
-<br/>
-
-<!-- Top Contributed Repos -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=F70DA0&background=DFDFDF00&center=true&vCenter=true&random=true&width=495&lines=Top+Contributed+Repo" alt="Typing SVG" /></h2>
-
-<div align="center">
-  <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=SHVM-09&limit=10&theme=synthwave&combine_all_yearly_contributions=true&hide_border=true" alt="GitHub Profile Contributions" width="700" height="300"/>
 </div>
 
 <br/>
@@ -260,28 +245,12 @@ My Bio
   </a> -->
 </div>
 
-<!-- Lookouts -->
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=F70DA0&center=true&vCenter=true&random=true&width=495&lines=MISCELLANEOUS" alt="Typing SVG" /></h2>
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=FF00B1&center=true&vCenter=true&random=true&width=495&lines=FAMILIAR+THIRD+PARTY+LIBRARIES+AND+HELPERS" alt="Typing SVG" />
-</div>
-
-> DATATABLES | SWEET ALERT2 | SELECT2 | MAPBOX | ANIMATE.CSS | PERFECT SCROLLBAR | PLYR | RATEYO | SHEPHERD
-
-> SPINKIT | SWIPER | TAGIFY | TOASTR | QUILL | JSTREE | APEX CHARTS | DROPZONE | REPEATER | FONT AWESOME | CLEAVE
-
-> REACT ICONS | FORM VALIDATION | FLAG-ICONS | TABLER ICONS | CHATGPT | W3SCHOOLS | FREE CODE CAMP | GIPHY
-
-
 <!-- Dev Quotes -->
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=1&pause=100000&color=F70DA0&background=DFDFDF00&center=true&vCenter=true&random=true&width=495&lines=Dev+Quotes" alt="Typing SVG" /></h2>
 
 <br/>
 
 <div>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="GitHub Profile Qoutes" width="100%" height="200"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Profile Qoutes" width="100%" height="200"/>
 </div>
-
-<br>
 
