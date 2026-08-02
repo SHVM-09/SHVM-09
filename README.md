@@ -128,17 +128,17 @@ My Bio
   
 > **Current Work:** I'm currently a part of the dynamic team [Trelae](https://trelae.com/), where we're constantly pushing the boundaries of technology in the field of AI!
 
-> **Current Project:** Crafting a AI integrated CRM/HRM productivity enhancement app with multiple essential features.
+> **Current Project:** Crafting an AI-integrated CRM/HRM productivity enhancement app with multiple essential features.
 
-> **Learning Journey:** Diving into Aspnet Core MVC, Advanced JS, React, GitHub, Sveltekit, Livekit, Shadcn and more. I believe in the power of continuous improvement and expanding my skill set.
+> **Learning Journey:** Diving into ASP.NET Core MVC, Advanced JS, React, GitHub, SvelteKit, LiveKit, Shadcn, and more. I believe in the power of continuous improvement and expanding my skill set.
 
-> **Ask Me About:** Bootstrap, React, JavaScript, HTML, GitHub, SaSS, ASPNET Core, and beyond. You can start a conversation [here](https://github.com/SHVM-09/SHVM-09/issues).
+> **Ask Me About:** Bootstrap, React, JavaScript, HTML, GitHub, Sass, ASP.NET Core, and beyond. You can start a conversation [here](https://github.com/SHVM-09/SHVM-09/issues).
 
 > **Life Principles:** I adhere to three guiding principles: Truth, Love, and Compassion. These values drive me both personally and professionally.
 
-> **Favorite Books:** Bhagwat Geeta, Mahabharata, History of Ancient India, and a deep exploration of A British Subject.
+> **Favorite Books:** Bhagavad Gita, Mahabharata, History of Ancient India, and a deep exploration of A British Subject.
 
-> **Anime Enthusiast:** From epic adventures like One Piece, Naruto, and Bleach to the more recent hits like Demon Slayer, Berserk, Hell's Paradise, and the intriguing world of Spy Family, I find inspiration and entertainment in these captivating animated stories.
+> **Anime Enthusiast:** From epic adventures like One Piece, Naruto, and Bleach to the more recent hits like Demon Slayer, Berserk, Hell's Paradise, and the intriguing world of Spy x Family, I find inspiration and entertainment from these captivating animated stories.
 
 </details>
 <!-- Hobbies & Interests -->
